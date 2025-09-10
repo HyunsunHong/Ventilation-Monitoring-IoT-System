@@ -56,7 +56,6 @@ The system consists of three main components:
 1. Clone the repository:
    ```bash
    git clone https://github.com/HyunsunHong/Ventilation-Monitoring-IoT-System.git
-   cd Ventilation-Monitoring-IoT-System
    ```
 
 2. Configure MQTT broker (e.g., Mosquitto).
